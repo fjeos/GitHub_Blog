@@ -1,11 +1,10 @@
 # contact
 
-### GitHub
+#### GitHub
 https://github.com/fjeos
 
-### Email
+#### Email
 yny3533@naver.com
-yny2767@gmail.com
 
-### Tistory
+#### Tistory
 https://ynyezyo.tistory.com/
